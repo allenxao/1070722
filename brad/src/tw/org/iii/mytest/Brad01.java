@@ -15,7 +15,7 @@ public class Brad01 {
 		byte 變數1 = 123;
 		System.out.println(變數1);
 		
-		
+		 
 		short s1 = 128; //2^16
 		short s2 = 32767;
 		//short s3 = 32768;

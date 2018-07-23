@@ -14,7 +14,8 @@ public class Brad04 {
 		int i1 = Integer.parseInt(a1);
 		int i2 = Integer.parseInt(a2);
 		
-		System.out.println(i1 + "/" + i2 + " = " + i1/i2 + "...." + i1%i2);
+		System.out.println(i1 + "/" + i2 + " = " + i1/i2 + "......" + i1%i2);
+		//取餘數用%
 	}
 
 }
